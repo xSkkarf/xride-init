@@ -1,0 +1,19 @@
+{
+  "name": "gardtestapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+
+  "engine":{
+    "node": "20.x"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
